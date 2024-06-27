@@ -1,6 +1,6 @@
 # NTUST CSIE SummerCAMP / Linux + Git + Cloud
 
-放心 這堂課不會當掉 1/3 的人
+放心 這堂課不會當掉 1/3 的人<br>
 Red.
 
 ## Resources
@@ -136,6 +136,8 @@ sudo systemctl start apache2
 # Git
 
 ## Git Command
+
+- [Example Command](https://github.com/aifred0729-TW/NTUST-CSIE_SummerCAMP-2024/blob/main/GitCommand.bat)
 
 所有指令都按照下面格式進行
 

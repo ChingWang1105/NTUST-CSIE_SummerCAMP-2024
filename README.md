@@ -3,6 +3,12 @@
 放心 這堂課不會當掉 1/3 的人<br>
 Red.
 
+## **注意，本次課程需要用到以下平台帳號，請在課程前或中途註冊完成。**
+
+- [Google](https://support.google.com/accounts/answer/27441?hl=zh-Hant)
+- [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+- [Tryhackme](https://tryhackme.com/signup)
+
 ## Resources
 
 - [Canva Link](https://www.canva.com/design/DAGIAo9zk20/KtEzCBRLwyN9b-Xs1foggg/edit?utm_content=DAGIAo9zk20&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

@@ -8,6 +8,7 @@ Red.
 - [Google](https://support.google.com/accounts/answer/27441?hl=zh-Hant)
 - [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 - [Tryhackme](https://tryhackme.com/signup)
+    - 進入後若要提供身份識別選擇學生並填寫自己的學校就好
 
 ## Resources
 
@@ -15,6 +16,8 @@ Red.
 - [Tryhackme Linux](https://tryhackme.com/r/room/tutorial)
 - [Slido 有問題都能問](https://app.sli.do/event/qkuSYULsD2bD6ReaKJ3FEZ)
 - [資工營 課程進度追蹤](https://docs.google.com/spreadsheets/d/1YSkF8HAro4OvF_UlGPb95OWya3zgEPq4vOHYAPZ5uho/edit?usp=sharing)
+- [Git Download](https://git-scm.com/download/win)
+    - 選擇 Standalone Installer 的 64bit 版本, 安裝只要一路按 next 就好
 
 # Linux
 
@@ -37,10 +40,10 @@ su meow
     - `rwxrwxrwx` = `擁有人/擁有組/其他人`
     - r = Read / w = Write / x = eXecute
     - r = 4 (100) / w = 2 (010) / x = 1 (001)
-    - `rwx` = 7 (4+2+1) (111)
-    - `rw-` = 6 (4+2)   (110)
-    - `r-x` = 5 (4+1)   (101)
-    - `r--` = 4 (4)     (100)
+    - `rwx` = 7 (111) (4+2+1)
+    - `rw-` = 6 (110) (4+2)
+    - `r-x` = 5 (101) (4+1)
+    - `r--` = 4 (100) (4)
 
 ## Linux Commands
 

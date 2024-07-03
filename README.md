@@ -7,14 +7,11 @@ Red.
 
 - [Google](https://support.google.com/accounts/answer/27441?hl=zh-Hant)
 - [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-- [Tryhackme](https://tryhackme.com/signup)
-    - 進入後若要提供身份識別選擇學生並填寫自己的學校就好
 
 ## Resources
 
 - [Canva Link](https://www.canva.com/design/DAGIAo9zk20/KtEzCBRLwyN9b-Xs1foggg/edit?utm_content=DAGIAo9zk20&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Tryhackme Linux](https://tryhackme.com/r/room/tutorial)
-- [Slido 有問題都能問](https://app.sli.do/event/qkuSYULsD2bD6ReaKJ3FEZ)
+- [Slido 有問題都能問](https://app.sli.do/event/6bM63teVPXFUxWQBV7Je6r)
 - [資工營 課程進度追蹤](https://docs.google.com/spreadsheets/d/1YSkF8HAro4OvF_UlGPb95OWya3zgEPq4vOHYAPZ5uho/edit?usp=sharing)
 - [Git Download](https://git-scm.com/download/win)
     - 選擇 Standalone Installer 的 64bit 版本, 安裝只要一路按 next 就好
